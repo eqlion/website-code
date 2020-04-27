@@ -7,9 +7,8 @@ export default () => (
         <Text>I have tried and have experience with:</Text>
         <List>
             <ListItem>
-                JS: ES6, yarn, npm. React and React Native + Redux and Redux
-                Persist (pretty new to all of it, quickly working my way
-                through);
+                JS — ES6, TS, yarn, npm. React and React Native + Redux and
+                Redux Persist (quickly working my way through);
             </ListItem>
             <ListItem>
                 Python 3 (have yet to work with any major framework, but have a

@@ -9,6 +9,6 @@ export default () => (
         <Link href="https://en.itmo.ru/en/">ITMO University</Link>. Right now
         I'm looking for a junior frontend job (paid internship would work too!)
         or some other practice to sharpen my skill and fill the lists below. If
-        you can suggest something or want to hire me, be sure to contact bellow!
+        you can suggest something or want to hire me, be sure to contact below!
     </Text>
 );
