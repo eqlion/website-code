@@ -1,6 +1,7 @@
 import * as React from "react";
 import { Flex, Box, Heading, ThemeProvider } from "@chakra-ui/core";
 import { Provider } from "react-redux";
+import { Helmet } from "react-helmet";
 
 import store from "../store";
 import theme from "../theme";
@@ -11,6 +12,9 @@ import { Bio, Stack, Showcase, Contacts } from "../content";
 export default () => (
     <Provider store={store}>
         <ThemeProvider theme={theme}>
+            <Helmet>
+                <title>Eqlion's home</title>
+            </Helmet>
             <Flex flexDirection="column" align="center">
                 <Box m={5} maxW="2xl">
                     <Flex align="baseline">

@@ -8,12 +8,11 @@ export default () => (
         <List>
             <ListItem>
                 JS—ES6, TS, yarn, npm. React and React Native + Redux and Redux
-                Persist (quickly working my way through);
+                Persist (quickly working my way through), looking into MobX;
             </ListItem>
             <ListItem>
-                Python 3 (have yet to work with any major framework, but have a
-                solid grasp of the language, able to figure out quickly if need
-                to);
+                Python 3 (Flask, I have a solid grasp of the language, able to
+                figure out quickly if need to);
             </ListItem>
             <ListItem>
                 English (C1) and Russian (native): can read/write/listen/speak
@@ -21,7 +20,7 @@ export default () => (
             </ListItem>
             <ListItem>
                 Somewhat experienced with unix systems (mostly working with
-                Ubuntu), so cli-utils, git, little bits of bash;
+                Ubuntu), so cli-utils, git, little bits of bash, Expo for RN;
             </ListItem>
             <ListItem>
                 LaTeX (perhaps might be useful, several dozens of papers written
